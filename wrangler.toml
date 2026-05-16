@@ -1,0 +1,8 @@
+name = "medkw"
+main = "src/worker.js"
+compatibility_date = "2026-05-16"
+account_id = "a4f678da72af3dab910fda9aca70e34f"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
