@@ -1,0 +1,14 @@
+{
+  "name": "medkw",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "check": "node scripts/check-links.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
